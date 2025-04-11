@@ -100,10 +100,6 @@ Este repositório contém um guia completo para testes da API de E-commerce do I
 
 ---
 
-## 📫 Contato
 
-Caso tenha dúvidas, sugestões ou queira colaborar, sinta-se à vontade para abrir uma issue ou um pull request.
 
----
 
-Se quiser, posso já gerar o `README.md` com esse conteúdo formatado. Deseja que eu faça isso?
