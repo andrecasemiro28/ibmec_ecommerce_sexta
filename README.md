@@ -1,6 +1,3 @@
-Claro! Com base no conteúdo do arquivo `ecommerce-test-guide.md`, aqui está um modelo de README pronto para o GitHub, formatado em Markdown e voltado para um projeto de testes de API de e-commerce:
-
----
 
 # 🛒 IBMEC E-commerce API - Guia de Testes
 
